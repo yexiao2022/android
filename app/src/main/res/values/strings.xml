@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Draw Sketch</string>
+    <string name="tab_draw">Trace &amp; Draw</string>
+    <string name="favorite">My favorites</string>
+    <string name="import_photo">Import Photos</string>
+    <string name="tab_set">More Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="permission_fail">Please grant the relevant permissions and try again.</string>
+    <string name="setting">Settings</string>
+    <string name="favorite_text">Havent added a favorite image yet！</string>
+    <string name="privacy">Privacy</string>
+    <string name="version">Version</string>
+    <string name="share">Share</string>
+    <string name="Rate">Rate</string>
+    <string name="gp">https://play.google.com/</string>
+</resources>

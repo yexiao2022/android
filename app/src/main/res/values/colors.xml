@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#9D9FE6</color>
+    <color name="camera">#80FFFFFF</color>
+    <color name="setting_background">#FCEEED</color>
+    <color name="background">#FCEEED</color>
+    <color name="gray">#787781</color>
+    <color name="wel_color">#EDEEF7</color>
+    <color name="wel_text_color">#401F7A</color>
+    <color name="title_color">#3A3938</color>
+    <color name="text_color">#0F0E09</color>
+    <color name="seekbar_bg">#E2E2FC</color>
+    <color name="seekbar_progress">#EDABA6</color>
+</resources>
